@@ -1,0 +1,22 @@
+{
+  "name": "challenge-10",
+  "version": "1.0.0",
+  "description": "CLI nodejs app with classes and unit testing tool jest.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "Inquirer",
+    "OOPs"
+  ],
+  "author": "Dhruv Patel",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
